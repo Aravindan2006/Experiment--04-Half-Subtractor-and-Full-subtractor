@@ -1,4 +1,4 @@
-![Screenshot 2023-12-26 231420](https://github.com/Aravindan2006/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/151760062/91efa243-7646-401d-a6d4-87b637a98c4a)# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--03-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
